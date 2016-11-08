@@ -1,7 +1,7 @@
 Development and Pilot testing of a metabolic risk profile in dried blood spot for Autism Spectrum Disorders
 ===========================================================================================================
 
-Rita Baron M.D., Ph.D., Salvatore Alaimo Ph.D., Marianna Messina Ph.D.,  Adriana
+Rita Barone M.D., Ph.D., Salvatore Alaimo Ph.D., Marianna Messina Ph.D.,  Adriana
 Prato M.D., Giovanna Russo M.D., Agata Fiumara M.D.,  Alfredo Pulvirenti Ph.D.,
 Alfredo Ferro Ph.D., Renata Rizzo M.D.
 
