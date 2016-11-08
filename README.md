@@ -31,7 +31,9 @@ This repository contains the following folders:
 -   `altered_metabolites`: the source code employed for the altered metabolites
     analysis
 
--   `blind_test`: the source code employes for the random blind test analysis
+-   `blind_test`: the source code employed for the random blind test analysis
+
+-   `power_analysis`: the source code employed for the power analysis
 
 -   `data`: the data sets used for all the analysis
 
