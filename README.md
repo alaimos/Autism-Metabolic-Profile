@@ -12,12 +12,12 @@ All correspondence should be addressed to:
 -   Rita Barone and Renata Rizzo, Child Neurology and Psychiatry Policlinico,
     Department of Clinical and Experimental Medicine, University of Catania, Via
     Santa Sofia 78 - 95123 Catania, Italy.  
-    E-mail: rbarone\@unict.it; rerizzo\@unict.it
+    E-mail: rbarone@unict.it; rerizzo@unict.it
 
 -   Alfredo Ferro, Bioinformatics Unit, Department of Clinical and Experimental
     Medicine c/o Department of Mathematics and Computer Science, University of
     Catania, Viale A.Doria 6 - 95125 Catania, Italy.  
-    E-mail: ferro\@dmi.unict.it
+    E-mail: ferro@dmi.unict.it
 
  
 
